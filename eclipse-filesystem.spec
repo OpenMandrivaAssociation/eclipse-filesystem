@@ -5,7 +5,7 @@ Version:        1.0
 Release:        3%{?dist}
 Summary:        Eclipse Platform Filesystem Layout
 License:        EPL
-URL:            http://www.eclipse.org/
+URL:            https://www.eclipse.org/
 
 # javapackages-tools defines %%{_javaconfdir} macro and owns that directory
 BuildRequires:  javapackages-tools
